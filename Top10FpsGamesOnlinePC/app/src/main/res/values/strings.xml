@@ -1,0 +1,119 @@
+<resources>
+    <string name="app_name">Best FPS Games</string>
+
+    <string name="games_name">Nama Game</string>
+    <string name="description">Deskripsi</string>
+    <string name="about_name">About Page</string>
+    <string name="author_name">Ryan Rizky Ramadhan</string>
+    <string name="author_email">a657d4ky3704@bangkit.academy</string>
+    <string name="developer">Pengembang : </string>
+    <string name="publisher">Penerbit : </string>
+    <string name="ratingStar">Rating : </string>
+    <string name="share">Share</string>
+    <string name="visit">Visit</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string-array name="data_name">
+        <item>Counter Strike : Global Offensive</item>
+        <item>Tom Clany\'s Rainbow Six Siege</item>
+        <item>Valorant</item>
+        <item>Fortnite</item>
+        <item>Apex Legends</item>
+        <item>PUBG: Battlegrounds</item>
+        <item>Escape From Tarkov</item>
+        <item>Point Blank</item>
+        <item>Call of Duty : Modern Warfare 2</item>
+        <item>Overwatch 2</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Counter Strike: Global Offensive (disingkat CSGO) adalah sebuah permainan dengan mode FPS yang dikembangkan oleh Valve Corporation dan Hidden Path Entertainment. Kedua perusahaan ini juga merupakan perusahaan yang mengembangkan Counter Strike: Source. Counter Strike: GO merupakan permainan keempat di dalam waralaba Counter Strike, tidak termasuk Counter Strike Neo dan Online. Counter Strike Global Offensive dirilis pada tanggal 21 Agustus, 2012 dan dapat dimainkan pada Microsoft Windows, OS X, Xbox Live Arcade dan Playstation Network versi Amerika.\n\nCounter Strike: Global Offensive menampilkan fitur-fitur klasiknya berupa peta yang ada dalam versi sebelumnya dan beberapa peta baru serta karakter tambahan. Permainan ini dapat dimainkan dengan menggunakan beberapa platform yang berbeda yaitu Windows, OS X dan PSN.</item>
+        <item>Tom Clancy\'s Rainbow Six Siege adalah permainan video penembak taktis online yang dikembangkan oleh Ubisoft Montreal dan diterbitkan oleh Ubisoft. Ini dirilis di seluruh dunia untuk Microsoft Windows, PlayStation 4, dan Xbox One pada tanggal 1 Desember 2015. Permainan ini juga dirilis untuk PlayStation 5 dan Xbox Series X/S tepat lima tahun kemudian pada tanggal 1 Desember 2020.\n\nPermainan ini sangat menekankan pada perusakan lingkungan dan kerja sama antar pemain. Setiap pemain memegang kendali atas penyerang atau bertahan dalam mode permainan yang berbeda seperti menyelamatkan sandera, menjinakkan bom, dan mengambil kendali tujuan di dalam ruangan. Judul tidak memiliki campaign tetapi menampilkan serangkaian misi offline pendek yang disebut, "situations" yang bisa dimainkan solo. Misi-misi ini memiliki narasi yang longgar, berfokus pada rekrutan melalui pelatihan untuk mempersiapkan mereka menghadapi pertemuan di masa depan dengan "White Masks", sebuah kelompok teroris yang mengancam keselamatan dunia.</item>
+        <item>Valorant (bergaya sebagai VALORANT) adalah permainan video POP (penembak orang pertama) taktis multipemain gratis yang dikembangkan dan diterbitkan oleh Riot Games, untuk Microsoft Windows. Pertama kali menggoda dengan nama kode Project A pada Oktober 2019, permainan memulai periode beta tertutup dengan akses terbatas pada 7 April 2020, diikuti dengan perilisan resmi pada 2 Juni 2020. Pengembangan permainan dimulai pada 2014.\n\nValorant adalah permainan first-person shooter (FPS) yang menggabungkan elemen taktis dan strategi tim. Pemain membentuk tim dan berusaha menyelesaikan misi atau mengalahkan tim lawan.</item>
+        <item>Fortnite adalah sebuah permainan video tahun 2017 yang dikembangkan oleh Farga Corporation yang dirilis sebagai paket perangkat lunak terpisah yang menyajikan berbagai mode permainan.\n\nFortnite merupakan permainan "battle royale," yang berarti pemain bersaing untuk menjadi yang terakhir bertahan hidup di medan pertempuran yang semakin menyusut.\n\nPeta Fortnite cukup besar dan terdiri dari berbagai area yang berbeda. Medan pertempuran ini berkembang seiring waktu, dengan zona-zona tertentu yang menjadi fokus perhatian para pemain. Terdapat lingkungan yang beragam, mulai dari kota-kota hingga daerah pedesaan, serta elemen-elemen fiksi seperti puing-puing dan zona luar angkasa.\n\nFortnite dikenal dengan gaya seninya yang unik dan berwarna-warni. Karakter dan lingkungan dalam permainan ini memiliki desain yang eksentrik dan cenderung kartun.</item>
+        <item>Apex Legends adalah permainan battle royale free-to-play yang dikembangkan oleh Respawn Entertainment dan diterbitkan oleh Electronic Arts. Permainan ini berada di alam semesta yang sama dengan Titanfall. Permainan ini dirilis untuk Microsoft Windows, PlayStation 4, dan Xbox One pada 4 Februari 2019. Satu minggu setelah dirilis, permainan ini telah diunduh lebih dari 25 juta kali dan lebih dari 2 juta pemain daring secara bersamaan.\n\nApex Legends adalah permainan tembak-menembak battle royale, di mana 60 pemain terjun payung ke pulau terpencil dan bersaing untuk menjadi yang terakhir bertahan hidup.\n\nGaya seni dalam Apex Legends memiliki nuansa futuristik dan lebih serius dibandingkan dengan beberapa permainan battle royale lainnya. Karakter, senjata, dan lingkungan memiliki desain yang realistis dengan elemen futuristik.</item>
+        <item>PUBG: Battlegrounds (sebelumnya dikenal sebagai PlayerUnknown\'s Battlegrounds) adalah sebuah permainan battle royale, di mana 100 orang sekaligus dapat bermain secara daring. Pemenang dari permainan ini adalah individu atau tim yang dapat bertahan hingga akhir. Pemain bisa bermain sendirian (solo), tim dengan dua orang (duo), dan tim dengan empat orang (squad). Pemain bisa mengundang teman di daftar teman (friend list) untuk bergabung ke dalam permainan sebagai sebuah tim.\n\nPUBG menampilkan grafis realistis dan peta yang bervariasi, termasuk peta dengan latar belakang perkotaan, pedesaan, dan bahkan peta musim dingin.</item>
+        <item>Escape from Tarkov adalah permainan video penembak orang pertama taktis multipemain yang dikembangkan oleh Battlestate Games untuk Microsoft Windows.\n\nPermainan ini berlatarkan wilayah fiksi Norvinsk di barat laut Rusia, di mana perang sedang terjadi antara dua perusahaan militer swasta (United Security "USEC" dan Battle Encounter Assault Regiment "BEAR"). Pemain bergabung dalam pertandingan yang disebut "penggerebekan" di mana mereka melawan pemain lain dan bot untuk mendapatkan jarahan dan bertujuan untuk bertahan hidup dan melarikan diri.</item>
+        <item>Point Blank adalah permainan komputer daring yang dikembangkan oleh Zepetto untuk platform Windows. Permainan ini diterbitkan di banyak negara dengan pengelolaan server secara mandiri oleh penerbit di masing-masing negara. Di Indonesia, permainan ini dikelola oleh Zepetto Interactive sejak November 2018 setelah dikelola oleh penerbit Gemscool berikut Garena.\n\nPoint Blank memiliki grafis yang cukup baik untuk game online dan menawarkan berbagai peta dengan desain level yang menarik, mulai dari arena perkotaan hingga tempat-tempat ekstrem seperti pangkalan militer dan pabrik.\n\nPoint Blank berkisah tentang perseteruan antara Free Rebels dan pemerintah yang dalam hal ini adalah Counter Terrorist Force (CT-Force).</item>
+        <item>Call of Duty: Modern Warfare II adalah permainan tembak-menembak orang-pertama (First-person shooter) yang dikembangkan oleh studio Infinity Ward dan dipublikasi oleh Activision. Game ini adalah lanjutan langsung dari Modern Warfare 2019 dan menjadi gim kesembilan belas seri Call of Duty. Permainan ini dirilis pada 28 Oktober 2022.\n\nCall of Duty: Modern Warfare 2 adalah permainan first-person shooter yang terkenal karena grafiknya yang memukau, cerita mendalam, dan mode multiplayer yang seru.\n\nCerita mode kampanye mengikuti karakter Joseph Allen, seorang agen rahasia, dan Kapten Soap MacTavish dalam berbagai misi di seluruh dunia untuk melawan kelompok teroris yang merencanakan kehancuran global.</item>
+        <item>Overwatch 2 adalah game penembak orang pertama tahun 2022 yang dikembangkan dan diterbitkan oleh Blizzard Entertainment. Sebagai sekuel dan pengganti Overwatch penembak pahlawan tahun 2016, game ini bermaksud menciptakan lingkungan bersama untuk mode pemain-lawan-pemain (PvP) sementara pada awalnya memiliki rencana untuk memperkenalkan mode kooperatif yang persisten, meskipun rencana tersebut kemudian dibatalkan pada tahun 2023, dengan fokus pada permainan pada elemen PvP-nya.\n\nPerubahan besar dalam mode PvP adalah pengurangan ukuran tim dari enam menjadi lima. Beberapa karakter utama juga dikerjakan ulang. Overwatch 2 dapat dimainkan gratis di Nintendo Switch, PlayStation 4, PlayStation 5, Windows, Xbox One, dan Xbox Series X.</item>
+    </string-array>
+
+    <string-array name="data_developer">
+        <item>Valve Corporation, Hidden Path Entertainment</item>
+        <item>Ubisoft Montreal</item>
+        <item>Riot Games</item>
+        <item>Epic Games</item>
+        <item>Respawn Entertainment, Panic Button Games</item>
+        <item>Krafton</item>
+        <item>Battlestate Games</item>
+        <item>Zepetto</item>
+        <item>Infinity Ward</item>
+        <item>Blizzard Entertainment</item>
+    </string-array>
+
+    <string-array name="data_publisher">
+        <item>Valve Corporation</item>
+        <item>Ubisoft</item>
+        <item>Riot Games</item>
+        <item>Epic Games</item>
+        <item>Electronic Arts</item>
+        <item>Krafton</item>
+        <item>Battlestate Games</item>
+        <item>Zepetto</item>
+        <item>Activision</item>
+        <item>Blizzard Entertainment</item>
+    </string-array>
+
+    <string-array name="data_rating">
+        <item>Rating : &#x2B50; &#x2B50; &#x2B50; &#x2B50; &#x2B50; | 9.3/10</item>
+        <item>Rating : &#x2B50; &#x2B50; &#x2B50; &#x2B50; &#x2B50; | 9.0/10</item>
+        <item>Rating : &#x2B50; &#x2B50; &#x2B50; &#x2B50; | 8.0/10</item>
+        <item>Rating : &#x2B50; &#x2B50; &#x2B50; &#x2B50; | 7.8/10</item>
+        <item>Rating : &#x2B50; &#x2B50; &#x2B50; &#x2B50; | 8.9/10</item>
+        <item>Rating : &#x2B50; &#x2B50; &#x2B50; | 6.0/10</item>
+        <item>Rating : &#x2B50; &#x2B50; &#x2B50; &#x2B50; | 7.0/10</item>
+        <item>Rating : &#x2B50; &#x2B50; &#x2B50; &#x2B50; &#x2B50; | 9.0/10</item>
+        <item>Rating : &#x2B50; &#x2B50; &#x2B50; &#x2B50; | 8.0/10</item>
+        <item>Rating : &#x2B50; &#x2B50; &#x2B50; &#x2B50; | 8.0/10</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/csgo</item>
+        <item>@drawable/rainbowsixsiege</item>
+        <item>@drawable/valorant</item>
+        <item>@drawable/fortnite</item>
+        <item>@drawable/apexlegends</item>
+        <item>@drawable/pubg</item>
+        <item>@drawable/espacefromtarkov</item>
+        <item>@drawable/pointblank</item>
+        <item>@drawable/codmw2</item>
+        <item>@drawable/overwatch2</item>
+    </integer-array>
+
+    <integer-array name="data_photo_background">
+        <item>@drawable/csgobg</item>
+        <item>@drawable/rainbowsixbg</item>
+        <item>@drawable/valorantbg</item>
+        <item>@drawable/fortnitebg</item>
+        <item>@drawable/apexlegendsbg</item>
+        <item>@drawable/pubgbg</item>
+        <item>@drawable/escapefromtarkovbg</item>
+        <item>@drawable/pbbg</item>
+        <item>@drawable/codbg</item>
+        <item>@drawable/overwatch2bg</item>
+    </integer-array>
+
+    <string-array name="url_visit">
+        <item>https://store.steampowered.com/app/730/CounterStrike_2/</item>
+        <item>https://www.ubisoft.com/en-gb/game/rainbow-six/siege</item>
+        <item>https://playvalorant.com/id-id/</item>
+        <item>https://www.fortnite.com/</item>
+        <item>https://www.ea.com/games/apex-legends</item>
+        <item>https://pubg.com/en-na</item>
+        <item>https://www.escapefromtarkov.com/</item>
+        <item>https://www.pointblank.id/</item>
+        <item>https://www.callofduty.com/modernwarfare2</item>
+        <item>https://overwatch.blizzard.com/en-us/</item>
+    </string-array>
+</resources>
